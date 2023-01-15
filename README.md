@@ -8,4 +8,8 @@
 
 #### That is an format - how can we enable js.
 
-<mark><script src=''></script></mark>
+<code>
+  <script>
+      console.log("Hello Programmer :)");
+  </script>
+</code>
