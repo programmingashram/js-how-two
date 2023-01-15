@@ -8,6 +8,6 @@
 
 #### That is an format - how can we enable js.
 
-:thumbsdown: **Do not add <code>script</code> tag in under  <code>head</code> tag**. that will increase the load timing of our web page,
+👎 **Do not add <code>script</code> tag in under  <code>head</code> tag**. that will increase the load timing of our web page,
 
-:thumbsup:  **Will add in bottom side of body. that will help us to do fast load in our webpage.**
+👍  **Will add in bottom side of body. that will help us to do fast load in our webpage.**
