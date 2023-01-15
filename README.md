@@ -8,4 +8,4 @@
 
 #### That is an format - how can we enable js.
 
-<code>'<script src=''></script>'</code>
+<script src=''></script>
